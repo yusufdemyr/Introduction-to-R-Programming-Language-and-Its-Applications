@@ -1,0 +1,5 @@
+Ligler Goller
+1   GS-FB      3
+2  FB-BJK      6
+3  BJK-AG      2
+4 TTL-TKM      4

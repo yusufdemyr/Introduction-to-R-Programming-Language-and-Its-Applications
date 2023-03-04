@@ -1,0 +1,26 @@
+{
+    "id": "4DFE3C6E",
+    "path": "C:/Users/islam/Desktop/R/Getting and Cleaning Data Course Project/run_analysis.R",
+    "project_path": "run_analysis.R",
+    "type": "r_source",
+    "hash": "368249783",
+    "contents": "",
+    "dirty": false,
+    "created": 1631007360466.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "96,28",
+        "scrollLine": "73"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1631007421,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1631007421556,
+    "read_only": false,
+    "read_only_alternatives": []
+}
